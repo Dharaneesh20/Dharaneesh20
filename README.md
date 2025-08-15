@@ -16,7 +16,8 @@ Hi, I'm Dharaneesh Rameshkumar, a passionate developer and tech enthusiast who l
 ## 📂 Top Projects
 Here are some of my favorite projects:
 - [Swift Connect](https://github.com/Dharaneesh20/Swift_Connect)
-- [Windows Subsystem Android Collaborator](https://github.com/LSPosed/LSPosed))
+- [Git Nanba](https://dharaneesh20.github.io/Git-Nanba-AI/)
+- [MedAi]([https://github.com/Dharaneesh20/MedAi])
 
 
 ## 🛠️ Technologies & Tools
