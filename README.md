@@ -128,20 +128,20 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 ### 🚀 [Swift Connect](https://github.com/Dharaneesh20/Swift_Connect)
 **Real-time Communication Platform**
-- 💬 Instant messaging & video calls
-- 🔐 End-to-end encryption
-- 📱 Cross-platform compatibility
-- **Tech:** React, Node.js, Socket.io, MongoDB
+- 💬 Easy Commute Solution
+- 🔐 Safe and Fast Commute
+- 📱 Available for Android
+- **Tech:** React, Node.js, Android Studio, MongoDB
 
 </td>
 <td width="50%">
 
 ### 🤖 [Git Nanba AI](https://dharaneesh20.github.io/Git-Nanba-AI/)
 **AI-Powered Development Assistant**
-- 🧠 Intelligent code suggestions
-- 📊 Project analytics & insights
-- 🔍 Smart repository search
-- **Tech:** Python, FastAPI, Transformers, React
+- 🧠 AI Integration For Push Pull Errors
+- 📊 Beginer Friendly Revert Back and Easy Push and Pull
+- 🔍 Smart repository Management
+- **Tech:** Python, Flask, Generative AI
 
 </td>
 </tr>
@@ -153,7 +153,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 - 📋 Medical diagnosis assistance
 - 💊 Drug interaction checker
 - 📈 Health monitoring dashboard
-- **Tech:** Python, TensorFlow, Django, PostgreSQL
+- **Tech:** Python, Huggingface Transformer, StreamLit, MySql
 
 </td>
 <td width="50%">
@@ -162,8 +162,8 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 **Smart Agriculture Platform**
 - 🌡️ IoT sensor integration
 - 📊 Crop yield prediction
-- 🛰️ Satellite imagery analysis
-- **Tech:** Python, AWS IoT, React, MongoDB
+- 🛰️ Cloud Based Archetecture
+- **Tech:** Python, AWS, Azure, IoT, React, MongoDB
 
 </td>
 </tr>
