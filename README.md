@@ -10,8 +10,19 @@ Hi, I'm Dharaneesh Rameshkumar, a passionate developer and tech enthusiast who l
 - 📫 How to reach me: [dharaneeshrs777@gmail.com]
 
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&theme=radical)
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharaneesh20&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh20&layout=compact&theme=tokyonight" alt="languages"/>
+</p>
+
+---
+
+## 🌱 Activity Graph  
+
+[![Dharaneesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharaneesh20&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📂 Top Projects
 Here are some of my favorite projects:
