@@ -97,11 +97,11 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh20&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh20&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharaneesh20&theme=tokyonight" alt="streak"/>
+
 </div>
 
 
