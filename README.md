@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
 
 Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Developer** and **AI/ML Enthusiast** who believes in turning ideas into reality through elegant code. I love exploring new technologies, building innovative solutions, and contributing to the open-source community.
 
@@ -52,7 +52,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 ### 🔧 Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
@@ -61,7 +60,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
@@ -98,7 +96,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&theme=tokyonight" alt="stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh20&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -106,9 +104,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharaneesh20&theme=tokyonight" alt="streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dharaneesh20&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophies"/>
-</div>
+
 
 ---
 
@@ -177,21 +173,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 ---
 
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 📅 Year | 🏢 Platform |
-|:-------------:|:-------:|:----------:|
-| AWS Cloud Practitioner | 2024 | Amazon Web Services |
-| Azure Fundamentals | 2024 | Microsoft Azure |
-| Python for Data Science | 2023 | Coursera |
-| React Developer | 2023 | Meta |
-| Machine Learning Specialization | 2023 | Stanford Online |
-
-</div>
-
----
 
 ## 📈 Coding Activity
 
@@ -288,9 +269,7 @@ graph LR
 
 </div>
 
-<!-- Snake eating contribution graph -->
-<div align="center">
   
-![Snake animation](https://github.com/Dharaneesh20/Dharaneesh20/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
+
