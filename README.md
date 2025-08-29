@@ -192,29 +192,6 @@ C++          48 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🔍 Learning] --> B[Kubernetes & DevOps]
-    A --> C[System Design]
-    A --> D[Microservices]
-    
-    E[🚀 Building] --> F[AI/ML Projects]
-    E --> G[Cloud Solutions]
-    E --> H[Open Source Tools]
-    
-    I[🎯 Goals] --> J[Tech Leadership]
-    I --> K[Product Innovation]
-    I --> L[Community Building]
-```
-
-</div>
-
----
-
 ## 🌐 Connect & Collaborate
 
 <div align="center">
