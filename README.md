@@ -240,13 +240,6 @@ C++          48 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😄 Dev Humor
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 ---
 
