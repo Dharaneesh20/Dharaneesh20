@@ -53,8 +53,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
       <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
       <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
       <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-      <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
     </td>
   </tr>
   <tr>
