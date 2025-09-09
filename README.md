@@ -64,7 +64,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
       <img src="https://skillicons.dev/icons?i=django" alt="Django" />
       <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
       <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" />
     </td>
   </tr>
   <tr>
@@ -72,8 +71,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
     <td>
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-      <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
     </td>
   </tr>
   <tr>
@@ -89,9 +86,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
   <tr>
     <td><b>🤖 AI/ML & Data Science</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
-      <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" />
       <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
       <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
     </td>
@@ -102,14 +96,11 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
       <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
       <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-      <img src="https://skillicons.dev/icons?i=vim" alt="Vim" />
-      <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" />
     </td>
   </tr>
   <tr>
     <td><b>🎯 Currently Learning</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=go" alt="Go" />
       <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
       <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
       <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
