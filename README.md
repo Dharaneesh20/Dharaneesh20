@@ -215,7 +215,7 @@ C++          48 mins         █░░░░░░░░░░░░░░░░
   <a href="https://twitter.com/Dharaneesh13581" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/dh.x21" target="_blank">
+  <a href="https://instagram.com/dh.x21.me" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:dharaneeshrs777@gmail.com">
