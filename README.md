@@ -84,13 +84,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
     </td>
   </tr>
   <tr>
-    <td><b>🤖 AI/ML & Data Science</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
-      <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
-    </td>
-  </tr>
-  <tr>
     <td><b>🛠️ Tools & IDEs</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
