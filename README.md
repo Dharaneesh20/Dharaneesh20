@@ -19,7 +19,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 - 🔭 **Currently working on:** Git Nanba AI, Agro Cloud Systems
 - 🌱 **Currently learning:** Advanced C++, Spring Boot, AWS DevOps, React Native
 - 🎯 **2025 Goals:** Contribute to 50+ open source projects, Master Kubernetes
-- 💡 **Fun fact:** I debug code faster when listening to lo-fi music! 🎵
 - 📫 **Reach me at:** dharaneeshrs777@gmail.com
 - 🌍 **Location:** India
 - ⚡ **Motto:** *"Learn, Build, Share, Repeat"*
