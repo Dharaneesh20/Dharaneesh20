@@ -124,6 +124,13 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 [![Dharaneesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharaneesh20&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+<div align="center">
+
+### 🐍 Snake eating my contributions!
+
+![Snake animation](https://raw.githubusercontent.com/Dharaneesh20/Dharaneesh20/output/github-contribution-grid-snake.svg)
+
+</div>---
 
 ---
 
