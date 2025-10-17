@@ -111,7 +111,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/Dharaneesh20/Dharaneesh20/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/YOUR_USERNAME/Dharaneesh20/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
