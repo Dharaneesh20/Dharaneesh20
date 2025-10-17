@@ -35,7 +35,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
   <tr>
     <td><b>💻 Programming Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c" alt="Programming Languages" />
+      <img src="https://skillicons.dev/icons?i=python,js,java,cpp,c" alt="Programming Languages" />
     </td>
   </tr>
   <tr>
@@ -47,13 +47,13 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
   <tr>
     <td><b>🔧 Backend Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nodejs,django,flask" alt="Backend" />
     </td>
   </tr>
   <tr>
     <td><b>🗄️ Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
     </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
   <tr>
     <td><b>🎯 Currently Learning</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=rust,spring,gcp" alt="Learning" />
+      <img src="https://skillicons.dev/icons?i=spring,gcp" alt="Learning" />
     </td>
   </tr>
 </table>
@@ -125,19 +125,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 [Swift Connect](https://github.com/Dharaneesh20/Swift_Connect)
-**Real-time Communication Platform**
-
-- 💬 Easy Commute Solution
-- 🔐 Safe and Fast Commute
-- 📱 Available for Android
-- **Tech Stack:** React, Node.js, Android Studio, MongoDB
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=Swift_Connect&theme=tokyonight&hide_border=true)](https://github.com/Dharaneesh20/Swift_Connect)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🤖 [Git PPM Assitant AI](https://dharaneesh20.github.io/Git-PPM-Assistant-AI/)
 **AI-Powered Development Assistant**
 
@@ -148,12 +135,9 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 - https://github.com/Dharaneesh20/Git-PPM-Assistant-AI.git
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=Git-PPM-Assistant-AI&theme=tokyonight&hide_border=true)](https://github.com/Dharaneesh20/Git-PPM-Assistant-AI)
-
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-
+  
 ### 🏥 [MedAi](https://github.com/Dharaneesh20/MedAi)
 **Healthcare AI Platform**
 
@@ -161,12 +145,16 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 - 💊 Drug Interaction Checker
 - 📈 Health Monitoring Dashboard
 - **Tech Stack:** Python, Hugging Face Transformers, Streamlit, MySQL
+- https://github.com/Dharaneesh20/MedAi
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=MedAi&theme=tokyonight&hide_border=true)](https://github.com/Dharaneesh20/MedAi)
 
 </td>
+</tr>
+<tr>
+  
 <td width="50%" valign="top">
-
+  
 ### 🌾 Agro Cloud Systems
 **Smart Agriculture Platform**
 
@@ -174,11 +162,13 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 - 📊 Crop Yield Prediction
 - 🛰️ Cloud-Based Architecture
 - **Tech Stack:** Python, AWS, Azure, IoT, React, MongoDB
+- https://github.com/Dharaneesh20/Agro-Cloud-Mandi
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=Agro-Cloud-Mandi&theme=tokyonight&hide_border=true&show_owner=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=AgroCloudSystems&theme=tokyonight&hide_border=true&show_owner=true" />
+
 
 </td>
-</tr>
+
 </table>
 
 </div>
