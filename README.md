@@ -12,8 +12,6 @@
 
 ## 🚀 About Me
 
-
-
 Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Developer** and **AI/ML Enthusiast** who believes in turning ideas into reality through elegant code. I love exploring new technologies, building innovative solutions, and contributing to the open-source community.
 
 - 🔭 **Currently working on:** Git Nanba AI, Agro Cloud Systems
@@ -37,63 +35,43 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
   <tr>
     <td><b>💻 Programming Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-      <img src="https://skillicons.dev/icons?i=c" alt="C" />
+      <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c" alt="Programming Languages" />
     </td>
   </tr>
   <tr>
     <td><b>🌐 Frontend Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react" alt="React" />
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" />
     </td>
   </tr>
   <tr>
     <td><b>🔧 Backend Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-      <img src="https://skillicons.dev/icons?i=django" alt="Django" />
-      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+      <img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi" alt="Backend" />
     </td>
   </tr>
   <tr>
     <td><b>🗄️ Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
     </td>
   </tr>
   <tr>
     <td><b>☁️ Cloud & DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git" alt="Cloud & DevOps" />
     </td>
   </tr>
   <tr>
     <td><b>🛠️ Tools & IDEs</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-      <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
-      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,github" alt="Tools" />
     </td>
   </tr>
   <tr>
     <td><b>🎯 Currently Learning</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
-      <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
-      <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
+      <img src="https://skillicons.dev/icons?i=rust,spring,gcp" alt="Learning" />
     </td>
   </tr>
 </table>
@@ -105,15 +83,17 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh20&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dharaneesh20&theme=tokyonight&hide_border=true)
 
 </div>
-
-
 
 ---
 
@@ -121,10 +101,19 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 <div align="center">
   
-[![Dharaneesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharaneesh20&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Dharaneesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharaneesh20&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/Dharaneesh20/Dharaneesh20/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -134,50 +123,73 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 [Swift Connect](https://github.com/Dharaneesh20/Swift_Connect)
 **Real-time Communication Platform**
+
 - 💬 Easy Commute Solution
 - 🔐 Safe and Fast Commute
 - 📱 Available for Android
-- **Tech:** React, Node.js, Android Studio, MongoDB
+- **Tech Stack:** React, Node.js, Android Studio, MongoDB
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=Swift_Connect&theme=tokyonight&hide_border=true)](https://github.com/Dharaneesh20/Swift_Connect)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 [Git Nanba AI](https://dharaneesh20.github.io/Git-Nanba-AI/)
 **AI-Powered Development Assistant**
+
 - 🧠 AI Integration For Push Pull Errors
-- 📊 Beginer Friendly Revert Back and Easy Push and Pull
-- 🔍 Smart repository Management
-- **Tech:** Python, Flask, Generative AI
+- 📊 Beginner Friendly Revert Back
+- 🔍 Smart Repository Management
+- **Tech Stack:** Python, Flask, Generative AI
+- https://github.com/Dharaneesh20/Git-PPM-Assistant-AI.git
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=Git-PPM-Assistant-AI&theme=tokyonight&hide_border=true)](https://github.com/Dharaneesh20/Git-PPM-Assistant-AI)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏥 [MedAi](https://github.com/Dharaneesh20/MedAi)
 **Healthcare AI Platform**
-- 📋 Medical diagnosis assistance
-- 💊 Drug interaction checker
-- 📈 Health monitoring dashboard
-- **Tech:** Python, Huggingface Transformer, StreamLit, MySql
+
+- 📋 Medical Diagnosis Assistance
+- 💊 Drug Interaction Checker
+- 📈 Health Monitoring Dashboard
+- **Tech Stack:** Python, Hugging Face Transformers, Streamlit, MySQL
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=MedAi&theme=tokyonight&hide_border=true)](https://github.com/Dharaneesh20/MedAi)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌾 Agro Cloud Systems
 **Smart Agriculture Platform**
-- 🌡️ IoT sensor integration
-- 📊 Crop yield prediction
-- 🛰️ Cloud Based Archetecture
-- **Tech:** Python, AWS, Azure, IoT, React, MongoDB
+
+- 🌡️ IoT Sensor Integration
+- 📊 Crop Yield Prediction
+- 🛰️ Cloud-Based Architecture
+- **Tech Stack:** Python, AWS, Azure, IoT, React, MongoDB
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=AgroCloudSystems&theme=tokyonight&hide_border=true&show_owner=true" />
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=Dharaneesh20&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -221,16 +233,18 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 <div align="center">
 
+### 💖 Support My Work
+
+If you like my projects, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dharaneesh20)
 
 ---
 
 **⭐ Star my repositories if you find them interesting!**
 
-*"The best way to predict the future is to invent it." - Alan Kay*
+### Thanks for visiting! 🙏
+
+![](https://hit.yhype.me/github/profile?user_id=Dharaneesh20)
 
 </div>
-
-  
-
-
-
