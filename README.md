@@ -138,7 +138,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Git Nanba AI](https://dharaneesh20.github.io/Git-Nanba-AI/)
+### 🤖 [Git PPM Assitant AI](https://dharaneesh20.github.io/Git-PPM-Assistant-AI/)
 **AI-Powered Development Assistant**
 
 - 🧠 AI Integration For Push Pull Errors
