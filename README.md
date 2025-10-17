@@ -107,7 +107,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 ---
 
-## 🐍 Contribution Snake
+## My Contributions
 
 <div align="center">
   
