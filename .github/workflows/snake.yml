@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day
+    - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate snake animation
@@ -20,9 +21,14 @@ jobs:
           github_user_name: Dharaneesh20
           outputs: dist/snake.svg
 
-      - name: Push to output branch
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          branch: output
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          force: true
+      - name: Commit and push the snake.svg to output branch
+        run: |
+          mkdir -p ./dist
+          cp dist/snake.svg ./snake.svg
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git reset
+          git add snake.svg
+          git commit -m "Generated snake.svg"
+          git push --force origin output
