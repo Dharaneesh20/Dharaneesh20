@@ -145,8 +145,9 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 - 📊 Beginner Friendly Revert Back
 - 🔍 Smart Repository Management
 - **Tech Stack:** Python, Flask, Generative AI
+- https://github.com/Dharaneesh20/Git-PPM-Assistant-AI.git
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=Git-Nanba-AI&theme=tokyonight&hide_border=true)](https://github.com/Dharaneesh20/Git-Nanba-AI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=Git-PPM-Assistant-AI&theme=tokyonight&hide_border=true)](https://github.com/Dharaneesh20/Git-PPM-Assistant-AI)
 
 </td>
 </tr>
@@ -230,16 +231,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💖 Support My Work
@@ -251,8 +242,6 @@ If you like my projects, consider buying me a coffee! ☕
 ---
 
 **⭐ Star my repositories if you find them interesting!**
-
-*"The best way to predict the future is to invent it." - Alan Kay*
 
 ### Thanks for visiting! 🙏
 
