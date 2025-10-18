@@ -84,14 +84,14 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Dharaneesh20&theme=highcontrast&hide_border=false"/>
 
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dharaneesh20&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh20&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
