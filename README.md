@@ -67,16 +67,6 @@ Hey there!
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dharaneesh20&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
-<br/>
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
