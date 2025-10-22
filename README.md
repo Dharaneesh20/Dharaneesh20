@@ -84,14 +84,8 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Dharaneesh20&theme=highcontrast&hide_border=false"/>
-
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneesh20&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://nirzak-streak-stats.vercel.app/?user=Dharaneesh20&theme=highcontrast&hide_border=false"/>
 
 </div>
 
@@ -205,13 +199,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 <div align="center">
 
-### 💖 Support My Work
-
-If you like my projects, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dharaneesh20)
-
----
 
 **⭐ Star my repositories if you find them interesting!**
 
