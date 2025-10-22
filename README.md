@@ -41,7 +41,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
   <tr>
     <td><b>🌐 Frontend Development</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend" />
     </td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
   <tr>
     <td><b>☁️ Cloud & DevOps</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git" alt="Cloud & DevOps" />
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,git" alt="Cloud & DevOps" />
     </td>
   </tr>
   <tr>
