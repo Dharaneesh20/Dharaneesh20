@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI%2FML+Enthusiast;Cloud+Technology+Explorer;Always+Learning+New+Things!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Cloud+Developer;Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+New+Things!)
 
   <img src="https://komarev.com/ghpvc/?username=Dharaneesh20&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   
@@ -10,17 +10,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Developer** and **AI/ML Enthusiast** who believes in turning ideas into reality through elegant code. I love exploring new technologies, building innovative solutions, and contributing to the open-source community.
+Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Cloud Developer** and **Full Stack Developer** who believes in turning ideas into reality through elegant code. I love exploring new technologies, building innovative solutions, and contributing to the open-source community.
 
-- 🔭 **Currently working on:** Git Nanba AI, Agro Cloud Systems
-- 🌱 **Currently learning:** Advanced C++, Spring Boot, AWS DevOps, React Native
-- 🎯 **2025 Goals:** Contribute to 50+ open source projects, Master Kubernetes
-- 📫 **Reach me at:** dharaneeshrs@proton.me
-- 🌍 **Location:** India
-- ⚡ **Motto:** *"Learn, Build, Share, Repeat"*
-
+-  **Currently working on:** Git Nanba AI, Agro Cloud Systems
+-  **Currently learning:** Advanced C++, Spring Boot, AWS DevOps, React Native
+-  **Reach me at:** dharaneeshrs@proton.me
 ---
 
 ## 🛠️ Tech Arsenal
@@ -91,8 +87,6 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 ---
 
-
-
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -101,7 +95,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Git PPM Assitant AI](https://dharaneesh20.github.io/Git-PPM-Assistant-AI/)
+### 🤖 [Git PPM Assistant AI](https://dharaneesh20.github.io/Git-PPM-Assistant-AI/)
 **AI-Powered Development Assistant**
 
 - 🧠 AI Integration For Push Pull Errors
@@ -113,7 +107,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=Git-PPM-Assistant-AI&theme=tokyonight&hide_border=true)](https://github.com/Dharaneesh20/Git-PPM-Assistant-AI)
 </td>
 <td width="50%" valign="top">
-  
+
 ### 🏥 [MedAi](https://github.com/Dharaneesh20/MedAi)
 **Healthcare AI Platform**
 
@@ -128,10 +122,9 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 </td>
 </tr>
 <tr>
-  
 <td width="50%" valign="top">
-  
-### 🌾 Agro Cloud Systems
+
+### 🌾 [Agro Cloud Systems](https://github.com/Dharaneesh20/Agro-Cloud-Mandi)
 **Smart Agriculture Platform**
 
 - 🌡️ IoT Sensor Integration
@@ -139,12 +132,23 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 - 🛰️ Cloud-Based Architecture
 - **Tech Stack:** Python, AWS, Azure, IoT, React, MongoDB
 - https://github.com/Dharaneesh20/Agro-Cloud-Mandi
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=Agro-Cloud-Mandi&theme=tokyonight&hide_border=true&show_owner=true" />
 
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=Agro-Cloud-Mandi&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Dharaneesh20/Agro-Cloud-Mandi)
 </td>
+<td width="50%" valign="top">
 
+### 🚀 [Intel Unnati AI CI/CD](https://github.com/Dharaneesh20/Intel-Unnati-AI-Framework-CI-CD)
+**CI/CD Framework for AI**
+
+- 🤖 AI Model Integration
+- 🔄 Automated CI/CD Pipeline
+- 🚀 Deployment Framework
+- **Tech Stack:** Jenkins, Docker, Kubernetes, Python
+- https://github.com/Dharaneesh20/Intel-Unnati-AI-Framework-CI-CD.git
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dharaneesh20&repo=Intel-Unnati-AI-Framework-CI-CD&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/Dharaneesh20/Intel-Unnati-AI-Framework-CI-CD)
+</td>
+</tr>
 </table>
 
 </div>
