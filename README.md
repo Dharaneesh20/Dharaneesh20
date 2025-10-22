@@ -2,7 +2,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dharaneesh%20Rameshkumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20Developer%20|%20Full%20Stack%20Engineer%20|%20AI%20Enthusiast&descSize=16&descAlignY=51"/>
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+Cloud+Solutions+%E2%98%81%EF%B8%8F;Full+Stack+Development+%F0%9F%9A%80;AI%2FML+Innovation+%F0%9F%A4%96" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Cloud+Developer+%E2%98%81%EF%B8%8F;Full+Stack+Development+%F0%9F%9A%80;AI%2FML+Innovation+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
 <br/>
 
