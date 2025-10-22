@@ -1,4 +1,4 @@
-# Hi there, I'm Dharaneesh Rameshkumar! 👋
+# Hi, I'm Dharaneesh Rameshkumar! 👋
 
 <div align="center">
   
