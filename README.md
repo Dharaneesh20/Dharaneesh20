@@ -97,25 +97,7 @@ Hey there! 👋 I'm **Dharaneesh Rameshkumar**, a passionate **Full Stack Develo
 
 ---
 
-## 🔥 Contribution Graph
 
-<div align="center">
-  
-  [![Dharaneesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharaneesh20&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## My Contributions
-
-<div align="center">
-  
- ![snake gif](https://github.com/Dharaneesh20/Dharaneesh20/blob/output/snake.svg)
-
-</div>
-
----
 
 ## 🎯 Featured Projects
 
