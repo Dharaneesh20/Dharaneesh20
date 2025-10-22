@@ -25,7 +25,6 @@ Hey there!
 
 <br clear="both"/>
 <br/>
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
