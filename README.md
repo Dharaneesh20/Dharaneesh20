@@ -22,7 +22,6 @@ Hey there!
 -  **Currently working on:** Git Nanba AI, Agro Cloud Systems
 -  **Currently learning:** Advanced C++, Spring Boot, AWS DevOps, React Native
 -  **Reach me at:** dharaneeshrs@proton.me
--  **My Portfolio:** https://portfoliorsd.vercel.app/
 
 <br clear="both"/>
 <br/>
@@ -150,7 +149,7 @@ Hey there!
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
   <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Dharaneesh20&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
