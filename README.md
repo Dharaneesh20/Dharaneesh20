@@ -166,6 +166,7 @@ Hey there!
 | **🏥 MedAi** | Healthcare AI platform with medical diagnosis, drug interaction checker & health monitoring | Python, HuggingFace, Streamlit, MySQL | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/Dharaneesh20/MedAi) |
 | **🌾 Agro Cloud Systems** | Smart agriculture platform with IoT integration and crop yield prediction | Python, AWS, Azure, IoT, React, MongoDB | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/Dharaneesh20/Agro-Cloud-Mandi) |
 | **🚀 Intel Unnati AI CI/CD** | Automated CI/CD framework for AI model integration and deployment | Jenkins, Docker, Kubernetes, Python | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/Dharaneesh20/Intel-Unnati-AI-Framework-CI-CD) |
+| **💾 Smart Disk Analyzer** | A free, open-source alternative to AOMEI for disk & partition management. | Spring Boot, React, Electron, Java | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github)](https://github.com/Dharaneesh20/Smart-Disk-Analyser) [![Website](https://img.shields.io/badge/Website-00D9FF?style=flat&logo=vercel)](https://dharaneesh20.github.io/Smart-Disk-Analyser/) |
 
 </div>
 
