@@ -149,9 +149,23 @@ Hey there!
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Dharaneesh20&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; background: linear-gradient(90deg, #0B141B, #0D1117, #103629); padding: 20px; border-radius: 12px;">
+
+  <!-- GitHub Stats -->
+  <img 
+    width="47%" 
+    src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&hide_border=true&title_color=F7F8FA&icon_color=21C063&text_color=858A8D&bg_color=0B141B,0D1117,103629&border_color=103629"
+    alt="GitHub Stats"
+  />
+
+  <!-- GitHub Streak -->
+  <img 
+    width="47%" 
+    src="https://streak-stats.demolab.com?user=Dharaneesh20&theme=dark&background=0B141B,0D1117,103629&border=103629&stroke=103629&ring=21C063&fire=21C063&currStreakNum=21C063&sideNums=21C063&currStreakLabel=F7F8FA&sideLabels=F7F8FA&dates=858A8D&excludeDaysLabel=FFD179"
+    alt="GitHub Streak"
+  />
+  
+
 </div>
 
 <br/>
