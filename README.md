@@ -150,7 +150,7 @@ Hey there!
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> GitHub Statistics
 
 <div align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&show_icons=true&hide_border=true&title_color=F7F8FA&icon_color=21C063&text_color=858A8D&bg_color=0B141B,0D1117,103629&border_color=103629" alt="GitHub Stats"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Dharaneesh20&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=Dharaneesh20&theme=dark&background=0B141B,0D1117,103629&border=103629&stroke=103629&ring=21C063&fire=21C063&currStreakNum=21C063&sideNums=21C063&currStreakLabel=F7F8FA&sideLabels=F7F8FA&dates=858A8D" alt="GitHub Streak"/>
 </div>
 
