@@ -2,28 +2,23 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dharaneesh%20Rameshkumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20Developer%20|%20Full%20Stack%20Engineer%20|%20AI%20Enthusiast&descSize=16&descAlignY=51"/>
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Cloud+Developer+%E2%98%81%EF%B8%8F;Full+Stack+Development+%F0%9F%9A%80;AI%2FML+Innovation+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
-<img src="https://komarev.com/ghpvc/?username=Dharaneesh20&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FDharaneesh2063b58.png?alt=media)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharaneesh-r-s-984510308)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dharaneesh13581)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharaneeshrs@proton.me)
+
 
 </div>
 
 <br/>
 
 Hey there!
-
 -  **Currently working on:** Git Nanba AI, Agro Cloud Systems
 -  **Currently learning:** Advanced C++, Spring Boot, AWS DevOps, React Native
 -  **Reach me at:** dharaneeshrs@proton.me
 -  **My Portfolio:** https://portfoliorsd.vercel.app/
-
 <br clear="both"/>
 <br/>
 
@@ -145,16 +140,6 @@ Hey there!
 
 </div>
 
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Dharaneesh20&theme=dark&background=0B141B,0D1117,103629&border=103629&stroke=103629&ring=21C063&fire=21C063&currStreakNum=21C063&sideNums=21C063&currStreakLabel=F7F8FA&sideLabels=F7F8FA&dates=858A8D" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32px"> Featured Projects
 
 <div align="center">
@@ -183,11 +168,8 @@ Hey there!
 
 ### ⭐ Star my repositories if you find them interesting!
 
-
 </div>
-
 <br/>
-
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling"/>
 
