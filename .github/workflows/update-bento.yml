@@ -1,6 +1,7 @@
 name: Daily OP-Bento image Update
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 jobs:
