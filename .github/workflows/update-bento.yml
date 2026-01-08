@@ -1,9 +1,13 @@
 name: Daily OP-Bento image Update
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:      # Allows manual trigger
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC (5:30 AM IST)
+
+permissions:
+  contents: write         # REQUIRED: Allows the bot to commit changes
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -11,11 +15,19 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Bun & run
+      - name: Setup Bun
         uses: oven-sh/setup-bun@v1
         with:
           bun-version: latest
 
-      - name: Update Bento
+      - name: Generate New Image
+        run: bun getNewBento.ts
+
+      - name: Commit and Push Change
         run: |
-          bun getNewBento.ts
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add bento.png
+          # The command below commits only if the image has changed
+          git commit -m "Update Bento Image" || echo "No changes to commit"
+          git push
