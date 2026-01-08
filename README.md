@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FDharaneesh2063b58.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FDharaneesh205a2a8.png?alt=media)
 
 
 
