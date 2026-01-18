@@ -16,7 +16,7 @@
 
 Hey there!
 -  **Reach me at:** dharaneeshrs@proton.me
--  **My Portfolio:** https://portfoliorsd.vercel.app/
+-  **My Portfolio:** https://rsdportfolio.vercel.app/
 <br clear="both"/>
 <br/>
 
