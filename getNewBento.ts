@@ -1,6 +1,6 @@
 import { write } from "bun";
 
-const apiUrl = "https://opbento.vercel.app/api/bento/image?g=Dharaneesh20&z=896d7";
+const apiUrl = "https://opbento.vercel.app/api/bento/image?g=Dharaneesh20&z=71b8f";
 
 interface BentoResponse {
   url: string;
