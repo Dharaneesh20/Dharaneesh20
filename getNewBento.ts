@@ -1,6 +1,6 @@
 import { write } from "bun";
 
-const apiUrl = "https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FDharaneesh205f753.png?alt=media";
+const apiUrl = "https://opbento.vercel.app/api/bento/image?g=Dharaneesh20&z=896d7";
 
 interface BentoResponse {
   url: string;
